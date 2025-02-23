@@ -1,5 +1,14 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [](https://github.com/eggjs/egg/compare/v3.30.1...v) (2025-02-23)
+
+
+### Bug Fixes
+
+* 🐛 修复修改构造函数参数导致无法在Nodejs@22运行的问题 ([c68936d](https://github.com/eggjs/egg/commit/c68936def159d8cee778b56b24ade26f7a9331c2))
+
 ## [3.30.1](https://github.com/eggjs/egg/compare/v3.30.0...v3.30.1) (2025-01-19)
 
 
